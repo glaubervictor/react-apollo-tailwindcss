@@ -1,3 +1,3 @@
-const GRAPHQL_URL = "http://localhost:5000/graphql";
+const GRAPHQL_URL = "https://superpastel-backend.up.railway.app/graphql";
 
 export { GRAPHQL_URL };
