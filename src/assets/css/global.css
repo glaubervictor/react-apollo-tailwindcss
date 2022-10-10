@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Flama-Book';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Flama-Book.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Flama-Light';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Flama-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Flama-Medium';
+  font-style: normal;
+  font-weight: medium;
+  src: url('../fonts/Flama-Medium.otf') format('opentype');
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
